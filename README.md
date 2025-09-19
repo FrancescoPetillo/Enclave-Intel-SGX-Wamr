@@ -6,7 +6,7 @@ Include inoltre la build statica di **wolfSSL** per future estensioni TLS/attest
 
 ---
 
-# Per il README completo utilizzare quello nella cartella
+# Per il README completo utilizzare "README(completo).md"
 
 ## 📦 Struttura del progetto
 .
